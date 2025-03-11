@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         // Si todo es válido, mostrar mensaje de éxito
         if (valido) {
-            alert("¡Gracias por tu mensaje! Nos pondremos en contacto pronto.");
+            alert("¡Gracias por tu mensaje! Nos pondremos en contacto pronto contigo.");
             document.getElementById("contactoFormulario").reset();
         }
     });
